@@ -1,4 +1,4 @@
-Clone Login Instagram Dark com HTML e CSS.
+Clone Login Instagram com HTML e CSS.
 
 Projeto desenvolvido durante o bootcamp HTML Web Developer na Digital Innovation One.
 https://www.dio.me/certificate/44B0095D/share
